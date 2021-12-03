@@ -9,7 +9,7 @@ activate the programming board and click on the location where you want to go
 
 1. Place a programming board and a screen
 2. Connect the programming board to the screen
-3. Paste the lua code from lua.json to the board
+3. Paste the lua code from lua.json to the board (click on the file and then on the raw button for easy copy)
 4. Enjoy :)
 
 ## How to edit the waypoint list
